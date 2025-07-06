@@ -20,9 +20,9 @@ This repository contains a deployed machine learning model using Streamlit to cl
 - `streamlit_app.py` – The main Streamlit web app
 - `model.pkl` – Trained machine learning model (Random Forest)
 - `Iris_Streamlit.ipynb` – Jupyter Notebook used to train and export the model
-- ![Input Panel](Screenshots/screenshot_1_input.png)  – Screenshot showing user input panel
-- ![Prediction Output](Screenshots/screenshot_2_prediction.png)  – Screenshot showing predicted class
-- ![Probability Chart](Screenshots/screenshot_3_chart.png) - Screenshot showing probability chart
+- ![Input Panel](screenshot_1_input.png)  – Screenshot showing user input panel
+- ![Prediction Output](screenshot_2_prediction.png)  – Screenshot showing predicted class
+- ![Probability Chart](screenshot_3_chart.png) - Screenshot showing probability chart
 
 
 ---
