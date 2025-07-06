@@ -27,13 +27,13 @@ This repository contains a deployed machine learning model using Streamlit to cl
 ---
 
 ##  Screenshot showing user input panel
-- ![Input Panel](screenshot_1_input.png)
+ ![Input Panel](screenshot_1_input.png)
 
 ## Screenshot showing predicted class
-- ![Prediction Output](screenshot_2_prediction.png)
+ ![Prediction Output](screenshot_2_prediction.png)
 
 ##  Screenshot showing probability chart
-- ![Probability Chart](screenshot_3_chart.png)
+ ![Probability Chart](screenshot_3_chart.png)
 
 
 ---
